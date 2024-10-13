@@ -4,7 +4,6 @@ Flat and responsive website template, designed and coded by [Maxim Orlov](https:
 
 
 ![Mockup demo](screenshots/pic.jpg)
-Product mockup created with [http://magicmockups.com/](http://magicmockups.com/)
 
 ## Contents
 
